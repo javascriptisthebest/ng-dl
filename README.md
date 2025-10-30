@@ -1,7 +1,7 @@
 # ng-dl
 A downloader for Newgrounds
 
-The sequel to ng-scrape. Currently only can download art (adult ones not supported yet)
+The sequel to ng-scrape. Currently it can only download art (adult ones not supported yet)
 
 # To-do
 Support all forms of media that can uploaded to Newgrounds (movies, music, games, etc...)
